@@ -1,0 +1,5 @@
+{
+  "name": "Tmux",
+  "icon": "fa-solid fa-layer-group",
+  "description": "Status bar and pane configurations for tmux."
+}
